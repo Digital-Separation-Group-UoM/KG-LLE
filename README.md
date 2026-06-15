@@ -1,1 +1,1 @@
-This is a conceptual schema for extractant design for metal recovery from waste mixtures. We will keep updating the repo as the project moves forward.
+This repository is for constructing a knowledge graph for liquid-liquid extraction using large language models and retrieval-augmented generation (RAG). The workflow supports extraction of domain knowledge from literature and experimental data, entity and relationship identification, graph construction, and knowledge retrieval for LLE research.
